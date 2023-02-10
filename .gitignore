@@ -1,0 +1,7 @@
+backup_banco.sql
+senhas.txt
+
+*.sql
+*.txt
+
+sql/  
