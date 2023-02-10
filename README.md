@@ -1,1 +1,0 @@
-novas informações no README
