@@ -1,1 +1,1 @@
-Arquivo que foi criado para treinamento de git
+Arquivo que foi criado para treinamento de git (alterado e atualizado).
